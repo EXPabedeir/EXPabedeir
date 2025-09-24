@@ -12,7 +12,7 @@
 ---
 
 - 🔭 I’m currently working on:  
-  - **[Woshwo (Google Play)](https://play.google.com/store/apps/details?id=com.woshwo.woshwoapp)** / **[Woshwo (App Store)]([https://apps.apple.com/eg/app/woshwo/id6746672453])**  
+  - **[Woshwo (Google Play)](https://play.google.com/store/apps/details?id=com.woshwo.woshwoapp)** / **[Woshwo (App Store)](https://apps.apple.com/eg/app/woshwo/id6746672453)**  
   - **[My Odex (Google Play)](https://play.google.com/store/apps/details?id=com.expsa.odexwebapp.odexwebapp)** / **[My Odex (App Store)](https://apps.apple.com/jo/app/my-odex/id6605933173?l=ar)**  
   - **Odex Agent App** *(in development)*  
 - 🌱 I’m currently learning **Native iOS Programming**.  

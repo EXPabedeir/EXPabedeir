@@ -1,15 +1,4 @@
 <!-- LinkedIn GIF Banner -->
-<a href="https://www.linkedin.com/in/abedeirb" target="_blank">
-  <img 
-    src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" 
-    alt="LinkedIn Profile" 
-    width="100%" 
-    height="265px" 
-    style="object-fit: cover;" 
-  />
-</a>
-
----
 
 - 🔭 I’m currently working on:  
   - **[Woshwo (Google Play)](https://play.google.com/store/apps/details?id=com.woshwo.woshwoapp)** / **[Woshwo (App Store)](https://apps.apple.com/eg/app/woshwo/id6746672453)**  
